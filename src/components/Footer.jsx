@@ -142,10 +142,10 @@ export default function Footer() {
               {/* RERA / Legal */}
               <div className="mt-8 p-3.5 rounded-lg bg-slate-800 border border-slate-700">
                 <p className="text-xs text-slate-500 uppercase tracking-widest mb-1">
-                  RERA Reg. No.
+                  CIN
                 </p>
                 <p className="text-sm font-semibold text-accent">
-                  TS/12/2024/000XX
+                  U68100TS2025PTC206763
                 </p>
               </div>
             </div>
