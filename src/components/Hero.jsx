@@ -39,7 +39,7 @@ export default function Hero() {
         </h1>
 
         {/* Sub-headline */}
-        <p className="text-slate-200 text-base sm:text-lg md:text-xl font-light leading-relaxed max-w-2xl mb-10">
+        <p className="text-slate-200 text-base sm:text-lg md:text-xl font-medium leading-relaxed max-w-2xl mb-10">
           Delivering architect-designed ventures with fixed pricing and flexible
           payment plans for middle-class families and smart investors.
         </p>
@@ -82,8 +82,8 @@ export default function Hero() {
         </div>
 
         {/* Scroll cue */}
-        <div className="absolute bottom-20 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1.5 opacity-60 animate-bounce">
-          <span className="text-white text-xs tracking-widest uppercase">Scroll</span>
+        <div className="mt-8 flex flex-col items-center gap-1.5 opacity-60 animate-bounce">
+          <span className="text-white font-light text-xs tracking-widest uppercase">Scroll</span>
           <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
           </svg>
