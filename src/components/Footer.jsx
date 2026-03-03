@@ -27,8 +27,8 @@ const clientPortals = [
 ]
 
 const socialLinks = [
-  { icon: Facebook, href: 'https://facebook.com', label: 'Facebook' },
-  { icon: Instagram, href: 'https://instagram.com', label: 'Instagram' },
+  { icon: Facebook, href: 'https://www.facebook.com/61584725333672/', label: 'Facebook' },
+  { icon: Instagram, href: 'https://www.instagram.com/srln_infra_developers/', label: 'Instagram' },
   { icon: Youtube, href: 'https://youtube.com', label: 'YouTube' },
   { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
 ]
@@ -65,15 +65,21 @@ export default function Footer() {
                 </div>
               </Link>
               <p className="text-sm text-slate-400 leading-relaxed mb-5">
-                Your Satisfaction Is Our Foundation. Building premium residential
-                and commercial properties that stand the test of time.
+                Your Satisfaction Is Our Foundation.
               </p>
 
               {/* Contact Details */}
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2.5 text-sm text-slate-400">
                   <MapPin size={15} className="text-accent mt-0.5 flex-shrink-0" />
-                  <span>Flat no.102, Madhusha Apartments, Beside NGRI metro station, Habsiguda, Hyderabad – 500007</span>
+                  <a
+                    href="https://maps.app.goo.gl/ohCK7d1UV5G8xQEK7"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-white transition-colors"
+                  >
+                    Flat no.102, Madhusha Apartments, Beside NGRI metro station, Habsiguda, Hyderabad – 500007
+                  </a>
                 </li>
                 <li>
                   <a
