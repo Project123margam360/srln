@@ -5,7 +5,7 @@ const contactDetails = [
   {
     icon: MapPin,
     label: 'Office Location',
-    value: 'Flat no. 102, Madhusha Apartments,\nBeside NGRI metro staion, Habsiguda,\nTelangana – 500007',
+    value: 'Flat no.102, Madhusha Apartments,\nBeside NGRI metro station, Habsiguda,\nHyderabad, Telangana – 500007',
   },
   {
     icon: Phone,

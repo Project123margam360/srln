@@ -73,7 +73,7 @@ export default function Footer() {
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2.5 text-sm text-slate-400">
                   <MapPin size={15} className="text-accent mt-0.5 flex-shrink-0" />
-                  <span>123 Infra Lane, Hyderabad, Telangana – 500001</span>
+                  <span>Flat no.102, Madhusha Apartments, Beside NGRI metro station, Habsiguda, Hyderabad, Telangana – 500007</span>
                 </li>
                 <li>
                   <a
