@@ -5,7 +5,7 @@ const contactDetails = [
   {
     icon: MapPin,
     label: 'Office Location',
-    value: '123 Infra Lane, Hyderabad,\nTelangana – 500001',
+    value: 'Flat no. 102, Madhusha Apartments,\nBeside NGRI metro staion, Habsiguda,\nTelangana – 500007',
   },
   {
     icon: Phone,

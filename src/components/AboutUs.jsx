@@ -79,10 +79,10 @@ export default function AboutUs() {
             <p className="text-slate-600 text-base leading-relaxed mb-4">
               Named in reverence to{' '}
               <strong className="font-semibold text-slate-800">
-                Sri Laxmi Narasimha Swamy
+                Lord Sri Laxmi Narasimha Swamy
               </strong>
               , and founded by industry veterans{' '}
-              <strong className="font-semibold text-slate-800">SR &amp; LN</strong>,
+              <strong className="font-semibold text-slate-800">Srikanth Reddy &amp; Laxman</strong>,
               SRLN Infra Developers makes premium, architect-designed real estate
               accessible to everyone.
             </p>
