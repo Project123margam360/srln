@@ -41,11 +41,11 @@ export default function AboutUs() {
           {/* ── Left: Video ── */}
           <div className="relative flex justify-center lg:justify-start">
             {/* Main video */}
-            <div className="relative w-full max-w-md lg:max-w-full rounded-2xl overflow-hidden shadow-2xl aspect-[4/5] lg:aspect-[3/4] bg-black">
+            <div className="relative w-full max-w-md lg:max-w-full rounded-2xl overflow-hidden shadow-2xl aspect-auto bg-black">
               <video
                 ref={videoRef}
                 controls
-                className="w-full h-full object-cover"
+                className="w-full h-auto"
               >
                 <source src="/videos/VN20260314_230720.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
